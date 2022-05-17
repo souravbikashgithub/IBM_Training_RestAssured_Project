@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-17T11:12:13 IST" name="Default suite" finished-at="2022-05-17T11:12:21 IST" duration-ms="7983">
+    <groups>
+    </groups>
+    <test started-at="2022-05-17T11:12:13 IST" name="Default test" finished-at="2022-05-17T11:12:21 IST" duration-ms="7983">
+      <class name="TestCases">
+        <test-method signature="UserPostOps()[pri:1, instance:TestCases@c333c60]" started-at="2022-05-17T11:12:13 IST" name="UserPostOps" finished-at="2022-05-17T11:12:16 IST" duration-ms="2955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserPostOps -->
+        <test-method signature="UserGetOps()[pri:2, instance:TestCases@c333c60]" started-at="2022-05-17T11:12:16 IST" name="UserGetOps" finished-at="2022-05-17T11:12:18 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGetOps -->
+        <test-method signature="UserPUTOps()[pri:3, instance:TestCases@c333c60]" started-at="2022-05-17T11:12:18 IST" name="UserPUTOps" finished-at="2022-05-17T11:12:19 IST" duration-ms="1234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserPUTOps -->
+        <test-method signature="UserDeleteOps()[pri:4, instance:TestCases@c333c60]" started-at="2022-05-17T11:12:19 IST" name="UserDeleteOps" finished-at="2022-05-17T11:12:20 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserDeleteOps -->
+        <test-method signature="UserNegativeOps()[pri:5, instance:TestCases@c333c60]" started-at="2022-05-17T11:12:20 IST" name="UserNegativeOps" finished-at="2022-05-17T11:12:21 IST" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserNegativeOps -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
